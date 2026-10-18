@@ -130,16 +130,16 @@ Machine learning project designed to classify news content and detect potential 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratnanimohit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats Card" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnanimohit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages Card" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ratnanimohit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats Card" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnanimohit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages Card" width="48%"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ratnanimohit&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak Card" width="97%"/>
+  <img src="https://streak-stats.demolab.com?user=ratnanimohit&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" alt="GitHub Contribution Streak Card" width="97%"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ratnanimohit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" width="97%"/>
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=ratnanimohit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" width="97%"/>
 </div>
 
 ---
